@@ -14,9 +14,9 @@
 
 ## 便宜机场推荐（速度快价格便宜）
 
-**【飞鸟云机场】优惠码：150m0Une** [点击注册](https://feiniaoyun10.life/#/register?code=150m0Une)
+**【飞鸟云机场】优惠码：150m0Une** [点击注册](https://feiniaoyun10.life/#/)
 
-**【新开高速IEPL专线机场，5元撸220G套餐】优惠码：88vip** [点击注册](https://hongxingdl.com/web/#/login?code=Yl8rfX6T)
+**【新开高速IEPL专线机场，5元撸220G套餐】优惠码：88vip** [点击注册](https://hongxingdl.com/web/#/login)
 
 **【各种帐号购买】** [点击注册](https://wandoukj.eu.org/)
 
@@ -26,11 +26,11 @@
 
 PS:如果不能正常更新，请在外网状态下更新-(安卓版Clash请使用Clash Meta)
 
-🚀通用订阅：https://ghp.ci/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
+🚀通用订阅：https://raw.githubusercontent.com/free18/v2ray/main/v.txt
 
-🚀Clash Meta订阅：https://ghp.ci/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
+🚀Clash Meta订阅：https://raw.githubusercontent.com/free18/v2ray/main/c.yaml
 
-**【免费白嫖-安易VPN】不限流量，赠送365天** [官网地址](https://www.anyi555.com/?mid=1033)
+**【免费白嫖-安易VPN】不限流量，赠送365天** [官网地址](https://www.anyi555.com/)
 
 ====================================================
 
